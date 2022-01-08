@@ -17,7 +17,6 @@
 
 clc
 clear
-% 误差随时间变化，周期误差与步长选择。发现低步长出现偏离，test3对低步长进行加密
 % multi order
 n=12;
 itest3=30
